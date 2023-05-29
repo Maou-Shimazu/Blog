@@ -11,7 +11,7 @@ const config = {
     },
     server: {
         host: "localhost",
-        port: 4000
+        port: 3000
     }
 }
 
